@@ -1,8 +1,0 @@
-[INFO  - 2018-11-22T06:35:06.241Z] GhostDriver - Main - running on port 60638
-[INFO  - 2018-11-22T06:35:10.235Z] Session [c260d450-ee20-11e8-b4f2-8d8dea973c69] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2018-11-22T06:35:10.235Z] Session [c260d450-ee20-11e8-b4f2-8d8dea973c69] - page.customHeaders:  - {}
-[INFO  - 2018-11-22T06:35:10.235Z] Session [c260d450-ee20-11e8-b4f2-8d8dea973c69] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2018-11-22T06:35:10.235Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c260d450-ee20-11e8-b4f2-8d8dea973c69
-[ERROR - 2018-11-22T06:35:15.118Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1542868515065
-
-  phantomjs://platform/console++.js:263 in error
