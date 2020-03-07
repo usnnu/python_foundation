@@ -60,7 +60,7 @@ class Solution:
         :return:
         """
         len_i, len_j = len(grid), len(grid[0])
-        dp = [ [0] * len_j ] * len_i
+        dp = [[0 for _ in range(len_j)] for _ in range(len_i)]
 
         for i in range(len_i - 1, -1, -1):
             for j in range(len_j - 1, -1, -1):
